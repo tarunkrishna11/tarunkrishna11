@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @tarunkrishna11
 -  I’m interested in development
--  I’m currently learning css
 -  I’m looking to collaborate on FULL STACK DEVELOPMENT
 -  Reach me via github or email.
 
